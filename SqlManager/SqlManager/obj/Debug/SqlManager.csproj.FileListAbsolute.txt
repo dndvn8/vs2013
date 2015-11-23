@@ -1,0 +1,11 @@
+C:\Users\iWindows\Documents\Visual Studio 2013\Projects\SqlManager\SqlManager\bin\Debug\SqlManager.exe.config
+C:\Users\iWindows\Documents\Visual Studio 2013\Projects\SqlManager\SqlManager\bin\Debug\SqlManager.exe
+C:\Users\iWindows\Documents\Visual Studio 2013\Projects\SqlManager\SqlManager\bin\Debug\SqlManager.pdb
+C:\Users\iWindows\Documents\Visual Studio 2013\Projects\SqlManager\SqlManager\obj\Debug\SqlManager.Properties.Resources.resources
+C:\Users\iWindows\Documents\Visual Studio 2013\Projects\SqlManager\SqlManager\obj\Debug\SqlManager.Views.FrmConnection.resources
+C:\Users\iWindows\Documents\Visual Studio 2013\Projects\SqlManager\SqlManager\obj\Debug\SqlManager.Views.FrmMain.resources
+C:\Users\iWindows\Documents\Visual Studio 2013\Projects\SqlManager\SqlManager\obj\Debug\SqlManager.csproj.GenerateResource.Cache
+C:\Users\iWindows\Documents\Visual Studio 2013\Projects\SqlManager\SqlManager\obj\Debug\SqlManager.exe
+C:\Users\iWindows\Documents\Visual Studio 2013\Projects\SqlManager\SqlManager\obj\Debug\SqlManager.pdb
+C:\Users\iWindows\documents\visual studio 2013\Projects\SqlManager\SqlManager\obj\Debug\SqlManager.csprojResolveAssemblyReference.cache
+C:\Users\iWindows\Documents\Visual Studio 2013\Projects\SqlManager\SqlManager\obj\Debug\SqlManager.Views.Network.resources
